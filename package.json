@@ -1,0 +1,22 @@
+{
+  "name": "cursodesenvolvimentocomtypescripteangular",
+  "version": "1.0.0",
+  "description": "Curso de Desenvolvimento WEB com ES6, TypeScript e Angular 4",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafaellavm/CursoDesenvolvimentoComTypescriptEAngularUD.git"
+  },
+  "author": "Rafaela Marraschi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rafaellavm/CursoDesenvolvimentoComTypescriptEAngularUD/issues"
+  },
+  "homepage": "https://github.com/rafaellavm/CursoDesenvolvimentoComTypescriptEAngularUD#readme",
+  "dependencies": {
+    "typescript": "^2.6.2"
+  }
+}
