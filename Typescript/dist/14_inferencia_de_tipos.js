@@ -1,3 +1,4 @@
+"use strict";
 var mensagem = "Seja bem-vindo!";
 var temporadaFriends = 10;
 var estudoAngular = true;
